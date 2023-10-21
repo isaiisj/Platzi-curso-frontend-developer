@@ -1,4 +1,4 @@
 # Platzi-curso-frontend-developer
 Curso 1 y 2 de Front end de Platzi por Estefany Aguilar
 1. Curso de Frontend Developer
-2. Curso práctico de Frontend Deveoper
+2. Curso práctico de Frontend Developer
